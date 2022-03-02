@@ -1,0 +1,9 @@
+.to-do-item {
+    display: flex;
+    background-color: grey;
+}
+
+.check-box {
+    width: 50px;
+    height: 50px;
+}
